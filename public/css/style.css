@@ -1,5 +1,9 @@
 header, .project:not(:last-child) {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #065b83;
+  }
+
+  background {
+    background-color: grey;
   }
   
   .no-button {
@@ -16,10 +20,14 @@ header, .project:not(:last-child) {
     color: #065b83;
     text-decoration: underline;
   }
+
+  footer {
+    background-color: #1b89bc;
+  }
   
-  .dollar-amount {
+  /* .dollar-amount {
     color: #056605;
     font-weight: bold;
     margin-left: -5px;
-  }
+  } */
   
