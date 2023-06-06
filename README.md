@@ -21,13 +21,13 @@ You will need to install package.json, node modules, session, sequlize, and expr
 
 ## Usage
 
+Login or sign up for blog. Then create a topic and a descripiton. It will then post to your blog. There is a Top Blog Users in the top left hand corner. You can click it to view the top bloggers.
 
 
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
-
+N/A
 
 ## License
 
@@ -43,6 +43,10 @@ No contributes needed for this project.
 
 Picture of website below:
 
+![alt text](assets/fullstack.png)
+
 
 Website link below:
+
+https://full-stack-codingblog.herokuapp.com/login
 
